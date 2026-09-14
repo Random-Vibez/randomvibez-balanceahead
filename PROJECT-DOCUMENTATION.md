@@ -156,7 +156,7 @@ An independent combined QA/security/accessibility reviewer returned GO:
 
 Source repository:
 
-`/home/tomf/Documents/randomvibez-autonomous-20260910`
+`/srv/example-app/balanceahead-source`
 
 Routine verification:
 
